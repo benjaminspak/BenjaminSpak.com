@@ -30,6 +30,7 @@
 + Continue copying down [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) v1.
 + Added SSL certs for spak.co | benjaminspak.com | popvia.com
 + Continue watching [How to build a Reddit or Hacker News Style Web App in Rails 4](https://youtu.be/7-1HCWbu7iU).
++ Set up Twitter preview cards (meta data) from all Spak Media websites & personal sites.
 
 *How did I do well?* <br>
 
