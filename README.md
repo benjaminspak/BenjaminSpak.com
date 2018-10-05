@@ -6,6 +6,8 @@ Initiatives: | [301DaysOfCode.com](https://301daysofcode.com/) | [SpakMedia.com]
 
 Where I'm most active: | [Twitter](https://twitter.com/benjaminspak) | [GitHub](https://github.com/benjaminspak) | [Discord](http://spak.co/) |
 
+Hire me: | [For a Web Development Project](http://popvia.com/) | [For Web Dev or Personal Brand Coaching](https://calendly.com/benjaminspak)
+
 ---
 
 ## Projects
