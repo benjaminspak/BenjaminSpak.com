@@ -2,9 +2,11 @@
 
 T-shaped front-end web developer & digital marketing veteran. Passion for crafting intuitive user experiences. Self-motivated,collaborative, with a strong sense of JS, UI, UX, CRO & SEO best practices.
 
-Initiatives: [301DaysOfCode.com](https://301daysofcode.com/) | [SpakMedia.com](http://SpakMedia.com) | [DevGains.com](http://devgains.com/) | 
+Initiatives:
+<br> | [301DaysOfCode.com](https://301daysofcode.com/) | [SpakMedia.com](http://SpakMedia.com) | [DevGains.com](http://devgains.com/) |
 
-Where I'm most active: [Twitter](https://twitter.com/benjaminspak) | [GitHub](https://github.com/benjaminspak) | [Discord](http://spak.co/)
+Where I'm most active:<br>
+| [Twitter](https://twitter.com/benjaminspak) | [GitHub](https://github.com/benjaminspak) | [Discord](http://spak.co/) |
 ---
 
 ## Projects
