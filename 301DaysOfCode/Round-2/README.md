@@ -44,7 +44,8 @@
 
 *Brain Dump* <br>
 
-+ Created a personal repo for the [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) rough draft.
++ Fixed a devgains.com redirect issue.
++ Created a [Youtube Playbook](http://benjaminspak.com/YouTubePlaybook/) rough draft.
 + Created an [Idea Log on my personal website](http://benjaminspak.com/ProjectIdeaLog/). Will never have to hunt for a new idea again!
 + Reorganized morning and evening routines.
 + Decided to journal here twice a day morning & evenings.
