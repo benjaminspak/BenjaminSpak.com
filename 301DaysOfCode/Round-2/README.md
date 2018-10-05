@@ -37,7 +37,9 @@
 
 *How can I improve* <br>
 
-+ 
++ Discovered GitHub Pages URL are case sensitive.
+  + Decide on capital case or lower case naming convention.
+  + Leaning towards capital case for readability.
 
 *Brain Dump* <br>
 
