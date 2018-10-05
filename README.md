@@ -28,11 +28,10 @@ Where I'm most active: [Twitter](https://twitter.com/benjaminspak) | [GitHub](ht
 ### Health
 
 ### Productivity
+**[YouTube Playbook](https://benjaminspak.com/YouTubePlaybook/)**
 
 ## Ideas & Thoughts
 ### [Project Idea Log](http://benjaminspak.com/ProjectIdeaLog/)
-
-
 
 ## Pictures
 ### [Selfie Bin]()
