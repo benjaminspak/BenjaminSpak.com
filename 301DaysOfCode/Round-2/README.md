@@ -45,7 +45,7 @@
 *Brain Dump* <br>
 
 + Created a personal repo for the [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) rough draft.
-+ Created an [Idea Log on my personal website](). Will never have to hunt for a new idea again!
++ Created an [Idea Log on my personal website](http://benjaminspak.com/ProjectIdeaLog/). Will never have to hunt for a new idea again!
 + Reorganized morning and evening routines.
 + Decided to journal here twice a day morning & evenings.
 + Think I'm going to start publishing this journal & other update from other places I write to benjaminspak.com.
