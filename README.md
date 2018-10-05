@@ -29,7 +29,7 @@ Where I'm most active: | [Twitter](https://twitter.com/benjaminspak) | [GitHub](
 ### Health
 
 ### Productivity
-**[YouTube Playbook](https://benjaminspak.com/YouTubePlaybook/)**
+**[YouTube Playbook](https://benjaminspak.com/YouTubePlayBook/)**
 
 ## Ideas & Thoughts
 ### [Project Idea Log](http://benjaminspak.com/ProjectIdeaLog/)
