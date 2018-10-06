@@ -23,18 +23,32 @@
 + 
 
 ```
-# Day 35 | 10.5.2018
+# Day 36 | 10.6.2018
 
 *To Do* <br>
-
 + Continue copying down [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) v1.
-+ Added SSL certs for spak.co | benjaminspak.com | popvia.com
++ Add SSL certs for spak.co, benjaminspak.com, popvia.com
 + Continue watching [How to build a Reddit or Hacker News Style Web App in Rails 4](https://youtu.be/7-1HCWbu7iU).
 + Set up Twitter preview cards (meta data) from all Spak Media websites & personal sites.
 
 *How did I do well?* <br>
 
++ 
+
+*How can I improve* <br>
+
++ 
+
+*Brain Dump* <br>
+
++ 
+
+# Day 35 | 10.5.2018
+
+*How did I do well?* <br>
+
 + Maintained an 80% adherance to to habits I set for myself; feeling good.
++ Went for a second walk to unwind in the evening.
 
 *How can I improve* <br>
 

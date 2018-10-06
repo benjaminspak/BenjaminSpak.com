@@ -24,17 +24,18 @@ Hire me: | [For a Web Development Project](http://popvia.com/) | [For Web Dev or
 
 ## Writing
 
++ **[#301DaysOfCode | Round 2 | & Productivity Journal](https://benjaminspak.com/301DaysOfCode/Round-2/)**
++ [10 Habits For a More Productive Day](https://benjaminspak.com/Articles/10-daily-habits-for-a-more-productive-day-with-less-disease.md)
++ []()
 
-### Journal
-**[#301DaysOfCode | Round 2 | & Productivity Journal](https://benjaminspak.com/301DaysOfCode/Round-2/)** <br>
+### Resources
 
-### Health
-
-### Productivity
-**[YouTube Playbook](https://benjaminspak.com/YouTubePlaybook/)**
+## [YouTube Playbook](https://benjaminspak.com/YouTubePlaybook/)
 
 ## Ideas & Thoughts
+
 ### [Project Idea Log](http://benjaminspak.com/ProjectIdeaLog/)
 
 ## Pictures
+
 ### [Selfie Bin]()
