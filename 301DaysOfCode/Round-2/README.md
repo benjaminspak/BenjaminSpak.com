@@ -26,6 +26,7 @@
 # Day 36 | 10.6.2018
 
 *To Do* <br>
++ Edit YouTube Video
 + Continue copying down [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) v1.
 + Add SSL certs for spak.co, benjaminspak.com, popvia.com
 + Continue watching [How to build a Reddit or Hacker News Style Web App in Rails 4](https://youtu.be/7-1HCWbu7iU).
@@ -41,7 +42,9 @@
 
 *Brain Dump* <br>
 
-+ 
++ Shot a YouTube Vid [FreeCodeCamp.com | 5 UX/UI Improvements | 10.6.2018]()
++ Been fiddling with template issues for spak.co -- the slider revolution banner didn't convert.
+  + Just redirected spak.co directly to the Discord server invite link.
 
 # Day 35 | 10.5.2018
 
