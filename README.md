@@ -28,9 +28,9 @@ Hire me: | [For a Web Development Project](http://popvia.com/) | [For Web Dev or
 + [10 Habits For a More Productive Day](https://benjaminspak.com/Articles/10-daily-habits-for-a-more-productive-day-with-less-disease.md)
 + []()
 
-### Resources
+## Resources
 
-## [YouTube Playbook](https://benjaminspak.com/YouTubePlaybook/)
+### [YouTube Playbook](https://benjaminspak.com/YouTubePlaybook/)
 
 ## Ideas & Thoughts
 
