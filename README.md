@@ -25,8 +25,8 @@ Hire me: | [For a Web Development Project](http://popvia.com/) | [For Web Dev or
 ## Writing
 
 + **[301DaysOfCode - Round 2 - & Productivity Journal](https://benjaminspak.com/301DaysOfCode/Round-2/)**
-+ [10 Habits For a More Productive Day](https://benjaminspak.com/Articles/10-daily-habits-for-a-more-productive-day-with-less-disease.md)
-+ [Joe Rogan On creativity & Flow States](https://benjaminspak.com/Articles/joe-rogan-on-creativity-and-flow-states.md)
++ [10 Habits For a More Productive Day](https://benjaminspak.com/Articles/10-habits-for-a-more-productive-day/)
++ [Joe Rogan On creativity & Flow States](https://benjaminspak.com/Articles/joe-rogan-on-creativity-and-flow-states/)
 
 ## Resources
 
