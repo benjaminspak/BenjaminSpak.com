@@ -24,7 +24,7 @@ Hire me: | [For a Web Development Project](http://popvia.com/) | [For Web Dev or
 
 ## Writing
 
-+ **[#301DaysOfCode | Round 2 | & Productivity Journal](https://benjaminspak.com/301DaysOfCode/Round-2/)**
++ **[301DaysOfCode - Round 2 - & Productivity Journal](https://benjaminspak.com/301DaysOfCode/Round-2/)**
 + [10 Habits For a More Productive Day](https://benjaminspak.com/Articles/10-daily-habits-for-a-more-productive-day-with-less-disease.md)
 + []()
 
