@@ -36,11 +36,11 @@
 
 *How did I do well?* <br>
 
-+ 
++ Completed thumbnails & uploaded [freeCodeCamp | 5 UX Gains](https://youtu.be/sr6tdQYOLHA)
 
 *How can I improve* <br>
 
-+ 
++ Ensure I get to be at a good time tonight.
 
 *Brain Dump* <br>
 
@@ -72,7 +72,7 @@
 
 *Brain Dump* <br>
 
-+ Shot a YouTube Vid [FreeCodeCamp.com | 5 UX/UI Improvements | 10.6.2018]()
++ Shot a YouTube Vid [freeCodeCamp | 5 UX Gains](https://youtu.be/sr6tdQYOLHA)
 + Been fiddling with template issues for spak.co -- the slider revolution banner didn't convert.
   + Just redirected spak.co directly to the Discord server invite link.
 
