@@ -23,10 +23,12 @@
 + 
 
 ```
-# Day 36 | 10.6.2018
+
+# Day 38 | 10.8.2018
 
 *To Do* <br>
-+ Edit YouTube Video
+
++ *To Do* <br>
 + Continue copying down [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) v1.
 + Add SSL certs for spak.co, benjaminspak.com, popvia.com
 + Continue watching [How to build a Reddit or Hacker News Style Web App in Rails 4](https://youtu.be/7-1HCWbu7iU).
@@ -39,6 +41,34 @@
 *How can I improve* <br>
 
 + 
+
+*Brain Dump* <br>
+
++ 
+
+# Day 37 | 10.7.2018
+
+*How did I do well?* <br>
+
++ Edited a YouTube Video
+
+*How can I improve* <br>
+
++ Go to sleep & wake at set times.
+
+*Brain Dump* <br>
+
++ This day was a bit of a wash. My sleep schedule was wau off.
+
+# Day 36 | 10.6.2018
+
+*How did I do well?* <br>
+
++ Shot a YoutTube video
+
+*How can I improve* <br>
+
++ Go to bed on time!
 
 *Brain Dump* <br>
 
