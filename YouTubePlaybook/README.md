@@ -76,11 +76,12 @@ Discover the SECRET to HAPPINESS in 12 Minutes <-- 46 Characters
 
 ## 3. Phrase & Color Psychology Map
 
-Outsider
 
+| Outsider | | |
+| :----: | :----: | :----: |
 | Crazy | Weird | Odd |
 | Insane | Wild | Wacky |
-| Unique | Beast |
+| Unique | Beast | |
 
 Color: Orange
 
