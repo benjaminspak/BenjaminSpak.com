@@ -24,15 +24,43 @@
 
 ```
 
-# Day 38 | 10.8.2018
+# Day 39 | 10.9.2018
 
 *To Do* <br>
 
-+ *To Do* <br>
-+ Continue copying down [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) v1.
 + Add SSL certs for spak.co, benjaminspak.com, popvia.com
 + Continue watching [How to build a Reddit or Hacker News Style Web App in Rails 4](https://youtu.be/7-1HCWbu7iU).
 + Set up Twitter preview cards (meta data) from all Spak Media websites & personal sites.
+
+*How did I do well?* <br>
+
++ Continued copying down [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) v1.
+
+*How can I improve* <br>
+
++ Keep going!
+
+*Brain Dump* <br>
+
++ Been slacking a bit with code & org growth, but got to see friends this weekend.
++ The Mcgregor fight was cray!
++ I listened to some beats and freestyled in bed until I fell asleep; was fun.
++ Back on my grind this week; starting off kind of slow, but a little green tea should do the trick.
++ Bought a few books on classical -- Trivium -- based eduction. 
+  + It will be tough to reprogram & over write the government run complusory schooling, but I think it's a worthwhile goal for the next 10 years.
+  + I've got a long way to go to have the mind, body & success I want, but god willing I'll make the next 10 years work for me -- going to be 30 this month -- it's time to stop playing around. I now know what I want & what I don't want out of life. It's still to burn up the old me & free the potental, growth & wisdom that has been fostered the past 10 years.
+  + I'm in it for the long game.
++ Removed syndicated videos from my YouTube Channel. Will revisit when it's a larger channel.
+  
+*Affirmation* <br>
+  
+I am healthy. I am wealthy. I am wise. I am bold.
+
+*Vision* <br>
+
+Save New Developers Time & Stress.
+
+# Day 38 | 10.8.2018
 
 *How did I do well?* <br>
 
@@ -41,10 +69,6 @@
 *How can I improve* <br>
 
 + Ensure I get to be at a good time tonight.
-
-*Brain Dump* <br>
-
-+ 
 
 # Day 37 | 10.7.2018
 

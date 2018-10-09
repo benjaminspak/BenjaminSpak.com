@@ -3,12 +3,11 @@
 
 1. Thumbnails
 1. Titles
-1. Descriptions
+1. Phrase & Color Psychology Map
 1. Call to Actions (CTAs)
 1. Video Content
 1. Income
 1. Youtube Checklist
-1. Shooting & Editing Schedule
 
 ## 1. Thumbnails
 
@@ -17,6 +16,8 @@
 1. Compelling numbers (trust).
 1. Has a familiar logo (trust).
 1. Use an icon to denote video type (clarity).
+
++ Keep under 20 characters.
 
 **1. Color Psychology**<br>
 + Green --> Finance
@@ -36,11 +37,61 @@
 + Money --> "Went from $13 per hour to $125"
 + Percentages --> "Increased Productivity 300%!"
 
-+ Keep under 20 characters.
-
 **4. Has a Familiar Logo**
 + FreeCodeCamp --> Walkthroughs
 + CodeCademy --> Walkthroughs
 
 **5. Icon For Video Type**
 + Speech Bubble --> Interviews
+
+## 2. Titles
+
+1. User Power Words
+2. Max Title Length 50 Characters (before truncated)
+
++ Less than 40 Characters
++ Controversial / Powerful
++ How to
++ List
++ Capitalize Power Words
++ Time Constraints
+
+Example 1:
+
+```
+LEARN From Your MISTAKES <-- 25 Characters
+
+
+```
+
+```
+
+5 Pieces of Life-Changing ADVICE From Mel Robbins <-- 49 Characters
+
+```
+
+```
+
+How to ALTER Your BELIEF System <-- 31 Characters
+
+```
+
+```
+Discover the SECRET to HAPPINESS in 12 Minutes <-- 46 Characters
+
+```
+
+## 3. Phrase & Color Psychology Map
+
+Outsider
+
+| Crazy | Weird | Odd |
+| Insane | Wild | Wacky |
+| Unique | Beast |
+
+Color: Orange
+
+## 4. Call to Actions (CTAs)
+## 5. Video Content
+## 6. Income
+## 7. Youtube Checklist
