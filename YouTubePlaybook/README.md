@@ -60,25 +60,18 @@ Example 1:
 
 ```
 LEARN From Your MISTAKES <-- 25 Characters
-
-
 ```
 
 ```
-
 5 Pieces of Life-Changing ADVICE From Mel Robbins <-- 49 Characters
-
 ```
 
 ```
-
 How to ALTER Your BELIEF System <-- 31 Characters
-
 ```
 
 ```
 Discover the SECRET to HAPPINESS in 12 Minutes <-- 46 Characters
-
 ```
 
 ## 3. Phrase & Color Psychology Map
