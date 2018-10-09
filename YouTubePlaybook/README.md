@@ -92,11 +92,37 @@ Color: Orange
 
 Color: Black
 
-| Hidden | | |
+| Power | | |
 | :----: | :----: | :----: |
-| Secret | Discover | Trust |
-| Untapped | Reveal | Steal |
-| Uncover | Elite | |
+| Difficult | Crush | Unleash |
+| Dominate | Powerful | Strong |
+| Challenge | Influence | Fight |
+
+Color: Red
+
+| Dreamer | | |
+| :----: | :----: | :----: |
+| Vision | Imagine | Believe |
+| Dream | Quest | Journey |
+| Saga | Awaken | Wise |
+
+Color: Purple
+
+| Mental | | |
+| :----: | :----: | :----: |
+| How to | Smart | Tactics |
+| Strategy | Skills | Rules |
+| Method | Technique | Laws |
+
+Color: Blue
+
+| Growth | | |
+| :----: | :----: | :----: |
+| Grow | Expand | Open Up |
+| Gain | Earn | Create |
+| Start | Next | |
+
+Color: Blue
 
 ## 4. Call to Actions (CTAs)
 ## 5. Video Content
