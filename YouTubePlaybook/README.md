@@ -56,7 +56,7 @@
 + Capitalize Power Words
 + Time Constraints
 
-Example 1:
+Examples:
 
 ```
 LEARN From Your MISTAKES <-- 25 Characters
@@ -76,7 +76,6 @@ Discover the SECRET to HAPPINESS in 12 Minutes <-- 46 Characters
 
 ## 3. Phrase & Color Psychology Map
 
-
 | Outsider | | |
 | :----: | :----: | :----: |
 | Crazy | Weird | Odd |
@@ -84,6 +83,20 @@ Discover the SECRET to HAPPINESS in 12 Minutes <-- 46 Characters
 | Unique | Beast | |
 
 Color: Orange
+
+| Hidden | | |
+| :----: | :----: | :----: |
+| Secret | Discover | Trust |
+| Untapped | Reveal | Steal |
+| Uncover | Elite | |
+
+Color: Black
+
+| Hidden | | |
+| :----: | :----: | :----: |
+| Secret | Discover | Trust |
+| Untapped | Reveal | Steal |
+| Uncover | Elite | |
 
 ## 4. Call to Actions (CTAs)
 ## 5. Video Content
