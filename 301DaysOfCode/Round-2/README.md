@@ -30,6 +30,7 @@
 
 + Listened to [Best Motivational Speech Compilation EVER #14 - DISCIPLINE](https://youtu.be/sEmZIi_0Kj8)
 + Went jogging in the morning before work.
++ Went jogging a second time during lunch.
 
 *How can I improve* <br>
 
