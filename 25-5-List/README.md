@@ -1,4 +1,4 @@
-## 25 Things I want to accomplish -- 5/25 Rule
+## 25 Things I want to accomplish in 2018 & 2019
 
 ### 5/25 Rule
 1. Write down 25 things you want to accomplish in the next year.
