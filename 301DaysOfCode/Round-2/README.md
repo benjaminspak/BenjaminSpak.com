@@ -24,15 +24,12 @@
 
 ```
 
-# Day xxx | xx.xx.xxxx
-
-*To Do* <br>
-
-+ Continue copying down [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) v1
+# Day 40 | 10.10.2018
 
 *How did I do well?* <br>
 
 + Listened to [Best Motivational Speech Compilation EVER #14 - DISCIPLINE](https://youtu.be/sEmZIi_0Kj8)
++ Went jogging in the morning before work.
 
 *How can I improve* <br>
 
@@ -41,6 +38,7 @@
 
 *Brain Dump* <br>
 
++ Completed copying down [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) v1
 + Rough past couple of mornings. Have been self destructive with sleeping late & watching TV.
   + I am not my old self! Fuck that, I will burn it away with determination & the new me will rise from the ashes.
 
