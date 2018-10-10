@@ -125,6 +125,44 @@ Color: Blue
 Color: Blue
 
 ## 4. Call to Actions (CTAs)
+
+Subscribe Verbal CTA @ 2 minute mark.
+Secret Link @ 4 minute mark.
+Income Generator @ 7 minute mark.
+Bell Icon @ 10 minute mark.
+Social Links @ 12 minute mark.
+Outro Videos Final 30 seconds.
+
 ## 5. Video Content
+
++ 5-10 Second Summary / Question to hook user.
++ Make Videos 10 min long (will be at least 10 min after editing)
++ 10 second video intros
++ Section / Point reminders
++ Talk about another video you should or another YOuTuber shot.
+  + User is on the platform, better serve them while on the platform.
++ 30 second video wrap up. (mention other videos here)
++ Question of the day at the end of videos with Discord thread.
++ Have 10 Key Points per video, make 1 minute 30 second each.
+
+
 ## 6. Income
+
+Plug 1 income generating item per video (most relevant) up to 3 times - max.
+
+### Affiliate Programs
+
+Courses
+
+Wes Bos, Skill Share, Tree House, Udemy, Plural Sight
+
+Bootcamps
+
+Lambda, Springboard, Coursera, Open Classrooms
+
+Service
+
+UX Reviews, Coaching
+
 ## 7. Youtube Checklist
+

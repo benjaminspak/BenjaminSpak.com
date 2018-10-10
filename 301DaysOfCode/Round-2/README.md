@@ -24,13 +24,27 @@
 
 ```
 
-# Day 39 | 10.9.2018
+# Day xxx | xx.xx.xxxx
 
 *To Do* <br>
 
-+ Add SSL certs for spak.co, benjaminspak.com, popvia.com
-+ Continue watching [How to build a Reddit or Hacker News Style Web App in Rails 4](https://youtu.be/7-1HCWbu7iU).
-+ Set up Twitter preview cards (meta data) from all Spak Media websites & personal sites.
++ Continue copying down [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) v1
+
+*How did I do well?* <br>
+
++ Listened to [Best Motivational Speech Compilation EVER #14 - DISCIPLINE](https://youtu.be/sEmZIi_0Kj8)
+
+*How can I improve* <br>
+
++ Stop seeking comfort & familiarity! Stop holding onto the past! Suffering in the right ways === growth!!
++ Stop being so senseable; be the crazy, determined, courious & bold like your inner child has been demanding.
+
+*Brain Dump* <br>
+
++ Rough past couple of mornings. Have been self destructive with sleeping late & watching TV.
+  + I am not my old self! Fuck that, I will burn it away with determination & the new me will rise from the ashes.
+
+# Day 39 | 10.9.2018
 
 *How did I do well?* <br>
 
