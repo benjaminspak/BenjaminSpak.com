@@ -166,3 +166,26 @@ UX Reviews, Coaching
 
 ## 7. Youtube Checklist
 
+### Shooting <br>
++ Key point Intro (5-10 seconds "Up Next") (x10)
++ Key point Content (1 & 1/2 minutes) (x10)
++ Shoot income plug (10 -20 seconds)(x1)
++ Shoot chat plug (10 seconds)(x1)
++ Shoot subscription plug (10 seconds)(x1)
++ Shoot bell icon plug (10 seconds)(x1)
++ Shoot Intro/Hook (10 seconds)(x1)
++ Shoot Wrap up (30 seconds)(x1)
+
+### Editing <br>
++ Trim Content
++ Add plugs with visual CTAs
++ Add key point visuals
+
+### Optimizing
+
+| Title | Thumb | Description |
+|:---:|:---:|:---:|
+| Catchy | Short | Secret Link |
+| Short | Face | Chat Topic |
+| Bold | Logo | Hashtags |
+| | Colorful | |
