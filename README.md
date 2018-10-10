@@ -13,14 +13,6 @@ Hire me: | [For a Web Development Project](http://popvia.com/) | [For Web Dev or
 ## Projects
 
 
-### Websites
-
-
-### Scripts
-
-
-### Applications
-
 
 ## Writing
 
