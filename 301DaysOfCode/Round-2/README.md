@@ -39,6 +39,7 @@
 
 *Brain Dump* <br>
 
++ Created my [25/5 List](https://benjaminspak.com/25-5List/)
 + Completed copying down [Youtube Playbook](https://github.com/benjaminspak/YouTubePlaybook) v1
 + Rough past couple of mornings. Have been self destructive with sleeping late & watching TV.
   + I am not my old self! Fuck that, I will burn it away with determination & the new me will rise from the ashes.
