@@ -24,6 +24,24 @@
 
 ```
 
+# Day 41 | 10.11.2018
+
+*To Do* <br>
+
++ 
+
+*How did I do well?* <br>
+
++ 
+
+*How can I improve* <br>
+
++ 
+
+*Brain Dump* <br>
+
++ 
+
 # Day 40 | 10.10.2018
 
 *How did I do well?* <br>
@@ -36,6 +54,7 @@
 
 + Stop seeking comfort & familiarity! Stop holding onto the past! Suffering in the right ways === growth!!
 + Stop being so senseable; be the crazy, determined, courious & bold like your inner child has been demanding.
++ Drink more water!
 
 *Brain Dump* <br>
 
