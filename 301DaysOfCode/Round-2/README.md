@@ -26,10 +26,6 @@
 
 # Day 41 | 10.11.2018
 
-*To Do* <br>
-
-+ 
-
 *How did I do well?* <br>
 
 + Jogged this morning.
@@ -43,6 +39,8 @@
 
 + Shot a Vlog [5 Minutes Of Fear - Vlog 10.11.18 - Benjamin Spak](https://youtu.be/IHZ_Hx1B_kM)
 + Listened to [NEVER BACK DOWN - 30-Minute Motivation Video](https://youtu.be/vn4p5DqlYPs)
++ Learned more React.js -- watched [Persisting our State with Firebase](https://ReactForBeginners.com/friend/SPAK)
++ Only jogged about 1/2 a mile today -- got a call on my lunch jog - walked while on the phone - about being resubmitted for a Daren role I interviewed for. Would be a nice gig to land -- UI/UX Engineer.
 
 # Day 40 | 10.10.2018
 
