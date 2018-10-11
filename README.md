@@ -23,7 +23,7 @@ Hire me: | [For a Web Development Project](http://popvia.com/) | [For Web Dev or
 ## Resources
 
 ### [YouTube Playbook](https://benjaminspak.com/YouTubePlaybook/)
-### [25/5 Rule & My List](https://benjaminspak.com/25-5List/)
+### [25/5 Rule & My List](https://benjaminspak.com/25-5-List/)
 
 ## Ideas & Thoughts
 
