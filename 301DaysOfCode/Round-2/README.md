@@ -32,15 +32,17 @@
 
 *How did I do well?* <br>
 
-+ 
++ Jogged this morning.
++ Shot a vlog this morning.
 
 *How can I improve* <br>
 
-+ 
++ Drink more water!
 
 *Brain Dump* <br>
 
-+ 
++ Shot a Vlog [5 Minutes Of Fear - Vlog 10.11.18 - Benjamin Spak](https://youtu.be/IHZ_Hx1B_kM)
++ Listened to [NEVER BACK DOWN - 30-Minute Motivation Video](https://youtu.be/vn4p5DqlYPs)
 
 # Day 40 | 10.10.2018
 
