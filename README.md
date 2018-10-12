@@ -31,3 +31,14 @@ Hire me: | [For Brand Coaching](https://calendly.com/benjaminspak)
 
 + [10 Habits For a More Productive Day](https://benjaminspak.com/Articles/10-habits-for-a-more-productive-day/)
 + [Joe Rogan On creativity & Flow States](https://benjaminspak.com/Articles/joe-rogan-on-creativity-and-flow-states/)
+
+---
+
+### About Me, Continued
+
+Started #301DaysOfCode #UserXP #DevGains. UI/UX Creator. Humanist.
+
+---
+
+### Social Links
+
