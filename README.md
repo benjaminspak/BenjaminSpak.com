@@ -6,7 +6,7 @@ Initiatives: | [301DaysOfCode.com](https://301daysofcode.com/) | [SpakMedia.com]
 
 Where I'm most active: | [YouTube](https://www.youtube.com/channel/UCQUNME_uamXEW1c58iEADWw) | [GitHub](https://github.com/benjaminspak) | [Twitter](https://twitter.com/benjaminspak) |
 
-Work with me: | [Resume](https://docs.google.com/document/d/1__fUj81YivpL82BdWjBg8jEJS_1dwHi2iOs9vqHn3Ng/edit?usp=sharing) & [Cover Letter](https://docs.google.com/document/d/17Ni7rBwpGcd_iRQ0hEjETrr9CQwPZ37cvzB0vflU628/edit?usp=sharing) | [Brand Consulting](https://calendly.com/benjaminspak) | 
+Work with me: | [Resume](https://docs.google.com/document/d/1__fUj81YivpL82BdWjBg8jEJS_1dwHi2iOs9vqHn3Ng/edit?usp=sharing) & [Cover Letter](https://docs.google.com/document/d/17Ni7rBwpGcd_iRQ0hEjETrr9CQwPZ37cvzB0vflU628/edit?usp=sharing) | [Brand Consulting](https://calendly.com/benjaminspak/personal-branding-coaching-1-on-1) | 
 
 ---
 
