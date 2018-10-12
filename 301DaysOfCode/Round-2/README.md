@@ -26,13 +26,9 @@
 
 # Day 42 | 10.12.2018
 
-*To Do* <br>
-
-+ Build a simple React App with FireBase []()
-
 *How did I do well?* <br>
 
-+ Relyed on my habbits to get me up and jogging this morning.
++ Relayed on my habits to get me up and jogging this morning.
 + Updated [DevGains.com with MVP info](DevGains.com).
 + Signed up for the [IRL Hackathon](http://hacktheirl.com/) to work ok DevGains.
 
@@ -46,6 +42,9 @@
 + Created a [quotes page on benjaminspak.com](https://benjaminspak.com/Quotes/).
 + Created a [thoughts page on benjaminspak.com](https://benjaminspak.com/Thoughts/).
 + Watched [Codementor 101 with Jessamyn](https://www.crowdcast.io/e/codementorwebinarjessamyn/1).
++ Built a simple React App with FireBase -- didn't want to debug why everything wasn't connecting up as intended.
+  + Will just build a full PERN stack (PostgreSQL, Express, React, Node ) app this weekend.
++ Watched and ran though [React & Express Starter Pack For Full Stack Development](https://youtu.be/v0t42xBIYIs).
 
 # Day 41 | 10.11.2018
 
