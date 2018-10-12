@@ -12,7 +12,7 @@ Hire me: | [For Brand Coaching](https://calendly.com/benjaminspak)
 
 ## Projects
 
-+ 
++ **[301DaysOfCode - Round 2 - & Productivity Journal](https://benjaminspak.com/301DaysOfCode/Round-2/)**
 + [DevGains.com](http://devgains.com/) | Career Roadmaps for Newbie & Jr. Developers.
 
 ## My Courses
@@ -27,6 +27,6 @@ Hire me: | [For Brand Coaching](https://calendly.com/benjaminspak)
 
 ## Writing
 
-+ **[301DaysOfCode - Round 2 - & Productivity Journal](https://benjaminspak.com/301DaysOfCode/Round-2/)**
++ **[Quotes](https://benjaminspak.com/Quotes/)**
 + [10 Habits For a More Productive Day](https://benjaminspak.com/Articles/10-habits-for-a-more-productive-day/)
 + [Joe Rogan On creativity & Flow States](https://benjaminspak.com/Articles/joe-rogan-on-creativity-and-flow-states/)

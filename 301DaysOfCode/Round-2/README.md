@@ -28,11 +28,12 @@
 
 *To Do* <br>
 
-+ Build a simple React App with FireBase.
++ Build a simple React App with FireBase []()
 
 *How did I do well?* <br>
 
 + Relyed on my habbits to get me up and jogging this morning.
++ Updated [DevGains.com with MVP info](DevGains.com)
 
 *How can I improve* <br>
 
