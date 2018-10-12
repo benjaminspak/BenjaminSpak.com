@@ -24,6 +24,24 @@
 
 ```
 
+# Day 43 | 10.13.2018
+
+*To Do* <br>
+
++ 
+
+*How did I do well?* <br>
+
++ 
+
+*How can I improve* <br>
+
++ 
+
+*Brain Dump* <br>
+
++ 
+
 # Day 42 | 10.12.2018
 
 *How did I do well?* <br>
