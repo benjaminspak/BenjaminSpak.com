@@ -42,10 +42,8 @@ Started #301DaysOfCode #UserXP #DevGains. UI/UX Creator. Humanist.
 
 ### Me Around the Web
 
-| Social | Coding | Design & Marketing |
 |:------:|:------:|:------:|
-| [Twitter]() | [freeCodeCamp]() | [Dribble]() |
-| [InstaGram]() | [Dev.to]() | [Behance]() |
-| [YouTube]() | [CodeCademy]() | [Medium]() |
-| [LinkedIn]() | [HashNode]() | [Moz]() |
-| []() | []() | []() |
+| [Twitter](https://twitter.com/benjaminspak) | [freeCodeCamp](https://www.freecodecamp.org/benjaminspak) | [Dribble](https://dribbble.com/benjaminspak) |
+| [InstaGram](https://www.instagram.com/spak.co/) | [Dev.to](https://dev.to/benjaminspak) | [Udemy](https://www.udemy.com/user/benspak/) |
+| [YouTube](https://www.youtube.com/channel/UCQUNME_uamXEW1c58iEADWw) | [CodeCademy](https://www.codecademy.com/benjaminspak) | [Medium](https://medium.com/@benjaminspak) |
+| [LinkedIn](https://www.linkedin.com/in/benjaminspak/) | [Moz](https://moz.com/community/users/386142) | |
