@@ -21,12 +21,13 @@ Hire me: | [For Brand Coaching](https://calendly.com/benjaminspak)
 
 ## Resources
 
-### [YouTube Playbook](https://benjaminspak.com/YouTubePlaybook/)
-### [25/5 Rule & My List](https://benjaminspak.com/25-5-List/)
-### [Project Idea Log](http://benjaminspak.com/ProjectIdeaLog/)
++ [YouTube Playbook](https://benjaminspak.com/YouTubePlaybook/)
++ [25/5 Rule & My List](https://benjaminspak.com/25-5-List/)
++ [Project Idea Log](http://benjaminspak.com/ProjectIdeaLog/)
++ [Quotes](https://benjaminspak.com/Quotes/)
++ [Thoughts/MindSet](https://benjaminspak.com/Thoughts/)
 
 ## Writing
 
-+ **[Quotes](https://benjaminspak.com/Quotes/)**
 + [10 Habits For a More Productive Day](https://benjaminspak.com/Articles/10-habits-for-a-more-productive-day/)
 + [Joe Rogan On creativity & Flow States](https://benjaminspak.com/Articles/joe-rogan-on-creativity-and-flow-states/)
