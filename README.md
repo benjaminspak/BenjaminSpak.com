@@ -40,5 +40,12 @@ Started #301DaysOfCode #UserXP #DevGains. UI/UX Creator. Humanist.
 
 ---
 
-### Social Links
+### Me Around the Web
 
+| Social | Coding | Design & Marketing |
+|:------:|:------:|:------:|
+| [Twitter]() | [freeCodeCamp]() | [Dribble]() |
+| [InstaGram]() | [Dev.to]() | [Behance]() |
+| [YouTube]() | [CodeCademy]() | [Medium]() |
+| [LinkedIn]() | [HashNode]() | [Moz]() |
+| []() | []() | []() |
