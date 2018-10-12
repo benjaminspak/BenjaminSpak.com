@@ -2,15 +2,15 @@
 
 T-shaped front-end web developer & digital marketing veteran. Passion for crafting intuitive user experiences. Self-motivated,collaborative, with a strong sense of JS, UI, UX, CRO & SEO best practices.
 
-Initiatives: | [301DaysOfCode.com](https://301daysofcode.com/) | [SpakMedia.com](http://SpakMedia.com)
+Initiatives: | [301DaysOfCode.com](https://301daysofcode.com/) | [SpakMedia.com](http://SpakMedia.com) |
 
-Where I'm most active: | [YouTube](https://www.youtube.com/channel/UCQUNME_uamXEW1c58iEADWw) | [GitHub](https://github.com/benjaminspak) | [Twitter](https://twitter.com/benjaminspak)
+Where I'm most active: | [YouTube](https://www.youtube.com/channel/UCQUNME_uamXEW1c58iEADWw) | [GitHub](https://github.com/benjaminspak) | [Twitter](https://twitter.com/benjaminspak) |
 
-Hire me: | [For Brand Coaching](https://calendly.com/benjaminspak)
+Work with me: | [For Brand Coaching](https://calendly.com/benjaminspak) | [Resume](https://docs.google.com/document/d/1__fUj81YivpL82BdWjBg8jEJS_1dwHi2iOs9vqHn3Ng/edit?usp=sharing) & [Cover Letter](https://docs.google.com/document/d/17Ni7rBwpGcd_iRQ0hEjETrr9CQwPZ37cvzB0vflU628/edit?usp=sharing) |
 
 ---
 
-## Projects
+## Current Projects
 
 + **[301DaysOfCode - Round 2 - & Productivity Journal](https://benjaminspak.com/301DaysOfCode/Round-2/)**
 + [DevGains.com](http://devgains.com/) | Career Roadmaps for Newbie & Jr. Developers.
@@ -34,13 +34,9 @@ Hire me: | [For Brand Coaching](https://calendly.com/benjaminspak)
 
 ---
 
-### About Me, Continued
+### Me Around the Web
 
 Started #301DaysOfCode #UserXP #DevGains. UI/UX Creator. Humanist.
-
----
-
-### Me Around the Web
 
 |:------:|:------:|:------:|
 | [Twitter](https://twitter.com/benjaminspak) | [freeCodeCamp](https://www.freecodecamp.org/benjaminspak) | [Dribble](https://dribbble.com/benjaminspak) |
