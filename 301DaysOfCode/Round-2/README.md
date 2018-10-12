@@ -63,6 +63,7 @@
 + Built a simple React App with FireBase -- didn't want to debug why everything wasn't connecting up as intended.
   + Will just build a full PERN stack (PostgreSQL, Express, React, Node ) app this weekend.
 + Watched and ran though [React & Express Starter Pack For Full Stack Development](https://youtu.be/v0t42xBIYIs).
+  + Created a [boiler plate repo for full stack JS apps](https://github.com/benjaminspak/reactExpress-Boiler).
 
 # Day 41 | 10.11.2018
 
