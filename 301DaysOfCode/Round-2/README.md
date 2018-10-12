@@ -33,7 +33,8 @@
 *How did I do well?* <br>
 
 + Relyed on my habbits to get me up and jogging this morning.
-+ Updated [DevGains.com with MVP info](DevGains.com)
++ Updated [DevGains.com with MVP info](DevGains.com).
++ Signed up for the [IRL Hackathon](http://hacktheirl.com/) to work ok DevGains.
 
 *How can I improve* <br>
 
