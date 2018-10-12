@@ -24,6 +24,24 @@
 
 ```
 
+# Day 42 | 10.12.2018
+
+*To Do* <br>
+
++ Build a simple React App with FireBase.
+
+*How did I do well?* <br>
+
++ Relyed on my habbits to get me up and jogging this morning.
+
+*How can I improve* <br>
+
++ Clean my room before I go to bed instead of in the morning.
+
+*Brain Dump* <br>
+
++ Shot a Vlog [Tiny Secrets Of Success -  Vlog 10.12.18 -  Benjamin Spak](https://youtu.be/SIu8SECpJBI)
+
 # Day 41 | 10.11.2018
 
 *How did I do well?* <br>
