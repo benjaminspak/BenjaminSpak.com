@@ -43,6 +43,7 @@
 
 + Shot a Vlog [Tiny Secrets Of Success -  Vlog 10.12.18 -  Benjamin Spak](https://youtu.be/SIu8SECpJBI)
 + Created a [quotes page on benjaminspak.com](https://benjaminspak.com/Quotes/).
++ Created a [thoughts page on benjaminspak.com](https://benjaminspak.com/Thoughts/).
 
 # Day 41 | 10.11.2018
 
