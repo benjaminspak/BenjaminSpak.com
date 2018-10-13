@@ -28,7 +28,7 @@
 
 *To Do* <br>
 
-+ 
++ A React/Express App -- maybe the habbit app.
 
 *How did I do well?* <br>
 
@@ -40,7 +40,8 @@
 
 *Brain Dump* <br>
 
-+ 
++ Went for a jog this morning.
++ Recorded the [vlog](https://youtu.be/QWF-fBthPOY) on the final stretch.
 
 # Day 42 | 10.12.2018
 
