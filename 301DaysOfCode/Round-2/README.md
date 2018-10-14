@@ -24,19 +24,32 @@
 
 ```
 
-# Day 43 | 10.13.2018
-
-*To Do* <br>
-
-+ A React/Express App -- maybe the habbit app.
+# Day 44 | 10.14.2018
 
 *How did I do well?* <br>
 
-+ 
++ Went for a walk this morning.
++ Recorded a long form video today.
 
 *How can I improve* <br>
 
-+ 
++ Don't take other people's problems personally.
+
+*Brain Dump* <br>
+
++ Worked on my habit app (React/Express App).
+
+# Day 43 | 10.13.2018
+
+*How did I do well?* <br>
+
++ Went to the beach.
+
+*How can I improve* <br>
+
++ Eat a healthier breakfast.
++ Play video games for a shorter period of time.
++ Don't take other people's problems personally.
 
 *Brain Dump* <br>
 
