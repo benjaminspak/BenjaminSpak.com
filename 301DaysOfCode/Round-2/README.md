@@ -35,7 +35,7 @@
 
 *Brain Dump* <br>
 
-+ 
++ Finished the back-end of the MERN app last night; working on the front-end and possibly deployment today.
 
 # Day 45 | 10.23.2018
 
