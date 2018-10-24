@@ -20,27 +20,42 @@
 
 ```
 
-# Day 45 | 10.22.2018
+
+# Day 46 | 10.24.2018
+
+*How did I do well?* <br>
+
++ Continued videos 3 & 4 [Learn The MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE) 
+
+*How can I improve* <br>
+
++ Learn [GatsByjs](https://www.gatsbyjs.org/)
++ Learn [Netlify CMS](https://www.netlifycms.org/)
++ Continue [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/learn/v4/content)
+
+*Brain Dump* <br>
+
++ 
+
+# Day 45 | 10.23.2018
 
 *How did I do well?* <br>
 
 + Recruiter calls at 10am & 1pm for a RoR & Angular positions.
-+ Watched [Learn The MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
-+ Created a Shopping List app with MERN stack.
++ Watched videos 1 & 2 [Learn The MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
 
 *How can I improve* <br>
 
-+ Make another MERN stack app.
 + Learn [GatsByjs](https://www.gatsbyjs.org/)
 + Learn [Netlify CMS](https://www.netlifycms.org/)
 + Continue [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/learn/v4/content)
-+ Watch [How to Make a Million Dollars Selling Shoes on Amazon/Ebay - $5000 Haul on a Friday Night](https://youtu.be/sPf72tA7ACc)
 
 *Brain Dump* <br>
 
 + Bit of a rough morning. Reaching out to the VA for help & trying to get a stable support base.
 + Can't get in contact with someone important so I'm a little worried about that because I still haven't heard back.
-+ 
++ Watched [How to Make a Million Dollars Selling Shoes on Amazon/Ebay - $5000 Haul on a Friday Night](https://youtu.be/sPf72tA7ACc)
++ Researched FBA & how to source and resell used items on eBay & Amazon.
 
 # Day 44 | 10.14.2018
 
