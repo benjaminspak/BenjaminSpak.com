@@ -8,8 +8,6 @@
   gtag('config', 'UA-89275663-1');
 </script>
 
-# BenjaminSpak.com
-
 T-shaped front-end web developer & digital marketing veteran. Passion for crafting intuitive user experiences. Self-motivated,collaborative, with a strong sense of JS, UI, UX, CRO & SEO best practices.
 
 Initiatives: | [301DaysOfCode.com](https://301daysofcode.com/) | [SpakMedia.com](http://SpakMedia.com) |
