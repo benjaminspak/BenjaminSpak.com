@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89275663-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-89275663-1');
+</script>
+
 # BenjaminSpak.com
 
 T-shaped front-end web developer & digital marketing veteran. Passion for crafting intuitive user experiences. Self-motivated,collaborative, with a strong sense of JS, UI, UX, CRO & SEO best practices.
