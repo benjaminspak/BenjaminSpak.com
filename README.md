@@ -43,3 +43,5 @@ Started #301DaysOfCode #UserXP #DevGains. UI/UX Creator. Humanist.
 | [InstaGram](https://www.instagram.com/spak.co/) | [Dev.to](https://dev.to/benjaminspak) | [Udemy](https://www.udemy.com/user/benspak/) |
 | [YouTube](https://www.youtube.com/channel/UCQUNME_uamXEW1c58iEADWw) | [CodeCademy](https://www.codecademy.com/benjaminspak) | [Medium](https://medium.com/@benjaminspak) |
 | [LinkedIn](https://www.linkedin.com/in/benjaminspak/) | [Moz](https://moz.com/community/users/386142) | |
+
+<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='18b5b92317421cac8cf4b2db846c01a0c0e6b45336c9ddf82ccdb1b10ccc7ed5';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
