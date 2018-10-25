@@ -25,7 +25,8 @@
 
 *How did I do well?* <br>
 
-+ Continued videos 3 & 4 [Learn The MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE) 
++ Continued videos 3, 4 & 5 [Learn The MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
++ Watched [Redux Crash Course](https://youtu.be/93p3LxR9xfM)
 
 *How can I improve* <br>
 
@@ -36,6 +37,18 @@
 *Brain Dump* <br>
 
 + Finished the back-end of the MERN app last night; working on the front-end and possibly deployment today.
++ Added Sumo email list popup to homepage of my personal site -- don't think it's working properly with markdown, however.
++ Added Google analytics to homepage of my personal site as well.
++ Looked up estate sales & inquired about pricing.
++ Bought cheap hosting for personal website -- to implement later.
+
+TIL Another Way to Comment a Code Block in VSCode
+
+```
+
+Ctrl + K + C
+
+```
 
 # Day 45 | 10.23.2018
 
