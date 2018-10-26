@@ -23,7 +23,7 @@
 
 *How did I do well?* <br>
 
-+ Completed [Learn The MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE) & the [shopping list app]().
++ Completed [Learn The MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE) & the [shopping list app](https://github.com/benjaminspak/shopping_list_MERN).
 
 *How can I improve* <br>
 
@@ -31,6 +31,7 @@
 + Learn [Netlify CMS](https://www.netlifycms.org/)
 + Continue [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/learn/v4/content)
 + Watch [Redux Crash Course](https://youtu.be/93p3LxR9xfM)
++ Work thru [https://learnredux.com/](learnredux.com)
 
 *Brain Dump* <br>
 
