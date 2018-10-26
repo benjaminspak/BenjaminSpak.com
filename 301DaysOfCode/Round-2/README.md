@@ -19,20 +19,39 @@
 + 
 
 ```
-
-
-# Day 46 | 10.24.2018
+# Day 47 | 10.25.2018
 
 *How did I do well?* <br>
 
-+ Continued videos 3, 4 & 5 [Learn The MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
-+ Watched [Redux Crash Course](https://youtu.be/93p3LxR9xfM)
++ Completed [Learn The MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE) & the [shopping list app]().
 
 *How can I improve* <br>
 
 + Learn [GatsByjs](https://www.gatsbyjs.org/)
 + Learn [Netlify CMS](https://www.netlifycms.org/)
 + Continue [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/learn/v4/content)
++ Watch [Redux Crash Course](https://youtu.be/93p3LxR9xfM)
+
+*Brain Dump* <br>
+
++ Was excited for an estate sale because I was blinded by potential dollar signs for some items. The first day prices are non-negotiable, so I reassessed and decided to wait until tomorrow to attend the sale because nothing is negotiable the first day and it's a 45 min drive one way. I'll risk losing some profit there and just go to my local Good Will to see if I can score some resell deals.
++ Spent about $100 on GoodWill and thrifting, hoping to make decent flip profits!
++ More interviews today.
++ Watched more videos on what items to resell and flip.
++ Took pics of resell items. Will clean up and begin researching more tomorrow.
+
+# Day 46 | 10.24.2018
+
+*How did I do well?* <br>
+
++ Continued videos 3, 4 & 5 [Learn The MERN Stack](https://www.youtube.com/watch?v=PBTYxXADG_k&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
+
+*How can I improve* <br>
+
++ Learn [GatsByjs](https://www.gatsbyjs.org/)
++ Learn [Netlify CMS](https://www.netlifycms.org/)
++ Continue [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/learn/v4/content)
++ Watch [Redux Crash Course](https://youtu.be/93p3LxR9xfM)
 
 *Brain Dump* <br>
 
@@ -41,6 +60,7 @@
 + Added Google analytics to homepage of my personal site as well.
 + Looked up estate sales & inquired about pricing.
 + Bought cheap hosting for personal website -- to implement later.
++ Watched a ton of reseller videos on YouTube before bed.
 
 TIL Another Way to Comment a Code Block in VSCode
 
