@@ -19,6 +19,22 @@
 + 
 
 ```
+# Day 48 | 10.27.2018
+
+*How did I do well?* <br>
+
++ Caught up with a few people via social media.
+
+*How can I improve* <br>
+
++ Record a vlog even if exhausted. Doing it in the morning is ideal.
+
+*Brain Dump* <br>
+
++ Missed a vlog yesterday. 
++ A pretty unproductive day in general. Fell into the habbit of drinking energy drinks & not exercising / meditating; have a feeling that caused my mental exhaustion.
+
+
 # Day 47 | 10.25.2018
 
 *How did I do well?* <br>
