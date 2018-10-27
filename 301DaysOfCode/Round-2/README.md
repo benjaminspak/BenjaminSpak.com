@@ -24,6 +24,7 @@
 *How did I do well?* <br>
 
 + Caught up with a few people via social media.
++ Oh! Right! I added a ton of people on Linked In and applied to more jobs yesterday. Wasn't a completely wasted day.
 
 *How can I improve* <br>
 
