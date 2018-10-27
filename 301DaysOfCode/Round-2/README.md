@@ -23,6 +23,7 @@
 
 *How did I do well?* <br>
 
++ Shot a Vlog [Friday Fail! -- Vlog 10.27.2018 -- Benjamin Spak](https://youtu.be/CemtXHboyE4)
 + Caught up with a few people via social media.
 + Oh! Right! I added a ton of people on Linked In and applied to more jobs yesterday. Wasn't a completely wasted day.
 
