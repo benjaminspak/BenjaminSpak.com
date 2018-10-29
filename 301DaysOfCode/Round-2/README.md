@@ -29,6 +29,15 @@
 *How can I improve* <br>
 
 + Set up a schedule to follow to stay productive.
++ Look into https://famebit.com/
++ Complete profile on https://my.aquent.com
++ Apply to more jobs.
+  + Apply to [ CHEP Careers - Web Developer - Angular Opportunity](https://jobs.chep.com/ShowJob/Id/1731997/Web%20Developer%20%20%20Angular)
++ Debug Shopping List App and [complete project](https://www.youtube.com/watch?reload=9&v=431EvDGKwks&index=7&list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE).
++ Call with recruiter @ 11:45.
++ Call with tech company @ 10:30.
++ Review Traackr downloads -- in email.
++ Look up reselling items and start writing sales descriptions.
 
 *To Learn List* <br>
 
@@ -37,7 +46,7 @@
 + Continue [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/learn/v4/content)
 + Watch [Redux Crash Course](https://youtu.be/93p3LxR9xfM)
 + Work thru [https://learnredux.com/](learnredux.com)
-+ Watch [Learn React - React Crash Course 2018 - React Tutorial with Examples | Mosh](https://youtu.be/Ke90Tje7VS0)
++ Watch [Learn React - React Crash Course 2018 - React Tutorial with Examples - Mosh](https://youtu.be/Ke90Tje7VS0)
 
 # Day 49 | 10.28.2018
 
