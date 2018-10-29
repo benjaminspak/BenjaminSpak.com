@@ -14,11 +14,46 @@
 
 + 
 
-*Brain Dump* <br>
-
-+ 
 
 ```
+
+# Day 50 | 10.29.2018
+
+*How did I do well?* <br>
+
++ Simplifying my daily journal more. Down to two categories. How did I did I do well & how can I improve.
++ Removed an cleaned up items off my desktop.
++ Listening to bi-nural beats to get back into the flow of breathing properly while at the computer. [3 HOURS Creativity and Focus ~ Binaural Beats](https://youtu.be/SAyA7rfyF38)
++ Shot a vlog [Keeping Habits — Vlog 10.29.2018 — Benjamin Spak](https://youtu.be/sFPig-k52Nw)
+
+*How can I improve* <br>
+
++ Set up a schedule to follow to stay productive.
+
+*To Learn List* <br>
+
++ Learn [GatsByjs](https://www.gatsbyjs.org/)
++ Learn [Netlify CMS](https://www.netlifycms.org/)
++ Continue [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/learn/v4/content)
++ Watch [Redux Crash Course](https://youtu.be/93p3LxR9xfM)
++ Work thru [https://learnredux.com/](learnredux.com)
++ Watch [Learn React - React Crash Course 2018 - React Tutorial with Examples | Mosh](https://youtu.be/Ke90Tje7VS0)
+
+# Day 49 | 10.28.2018
+
+*How did I do well?* <br>
+
++ Applied to more jobs & reached out to people on LinkedIn.
+
+*How can I improve* <br>
+
++ Set up a schedule to follow to stay productive.
+
+*Brain Dump* <br>
+
++ Worked on content for benjaminspak.com quote a bit.
++ Watched a bit of man in the high castle.
+
 # Day 48 | 10.27.2018
 
 *How did I do well?* <br>
@@ -50,6 +85,7 @@
 + Continue [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/learn/v4/content)
 + Watch [Redux Crash Course](https://youtu.be/93p3LxR9xfM)
 + Work thru [https://learnredux.com/](learnredux.com)
++ Watch [Learn React - React Crash Course 2018 - React Tutorial with Examples | Mosh](https://youtu.be/Ke90Tje7VS0)
 
 *Brain Dump* <br>
 

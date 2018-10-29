@@ -10,6 +10,10 @@
 
 T-shaped front-end web developer & digital marketing veteran. Passion for crafting intuitive user experiences. Self-motivated,collaborative, with a strong sense of JS, UI, UX, CRO & SEO best practices.
 
+Why the simple website?
+
+It's an MVP. I'm making several changes to the content & want to have several useful resources available, before I invest time in design.
+
 Initiatives: | [301DaysOfCode.com](https://301daysofcode.com/) | [SpakMedia.com](http://SpakMedia.com) |
 
 Where I'm most active: | [YouTube](https://www.youtube.com/channel/UCQUNME_uamXEW1c58iEADWw) | [GitHub](https://github.com/benjaminspak) | [Twitter](https://twitter.com/benjaminspak) |
@@ -30,6 +34,9 @@ Work with me: | [Resume](https://docs.google.com/document/d/1__fUj81YivpL82BdWjB
 ## Resources
 
 + [YouTube Playbook](https://benjaminspak.com/YouTubePlaybook/)
++ [Reseller Playbook](https://benjaminspak.com/ResellerPlaybook/)
++ [Finance Playbook](https://benjaminspak.com/FinancePlaybook/)
++ [Life Hacks](https://benjaminspak.com/LifeHacks/)
 + [25/5 Rule & My List](https://benjaminspak.com/25-5-List/)
 + [Project Idea Log](http://benjaminspak.com/ProjectIdeaLog/)
 + [Quotes](https://benjaminspak.com/Quotes/)
@@ -51,5 +58,3 @@ Started #301DaysOfCode #UserXP #DevGains. UI/UX Creator. Humanist.
 | [InstaGram](https://www.instagram.com/spak.co/) | [Dev.to](https://dev.to/benjaminspak) | [Udemy](https://www.udemy.com/user/benspak/) |
 | [YouTube](https://www.youtube.com/channel/UCQUNME_uamXEW1c58iEADWw) | [CodeCademy](https://www.codecademy.com/benjaminspak) | [Medium](https://medium.com/@benjaminspak) |
 | [LinkedIn](https://www.linkedin.com/in/benjaminspak/) | [Moz](https://moz.com/community/users/386142) | |
-
-<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='18b5b92317421cac8cf4b2db846c01a0c0e6b45336c9ddf82ccdb1b10ccc7ed5';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>

@@ -47,9 +47,36 @@ Resell list:
 + 35mm cameras 
 + LCD TV mounts 
 + Mechanical keyboards 
++ Car Parts from scrap yards
 
 
 Do not buy (unless SUPER cheap)
 
 + Hess trucks
-+ Beanie babies 
++ Beanie babies
+
+Arbitrage
+
++ Flip clearance items from brick & mortar stores and resell online
++ Get free items from Craigslist and sell on Facebook marketplace.
++ Rent a 3 bedroom 2 bath home rent out one bed room for 60% of the total rent.
+
+Item Sources
+
++ Garbage men
++ Storage units
++ Police sales
++ Business shutdowns
++ Estate sales
++ Garage sales
++ Flea Markets
++ Church thrift shops
+
+Reselling Business Guidelines
+
+1. Quality Pictures (use flash, lighting, etc)
+1. Sell niche items. Great chance of a profit. Popular items are highly competitive & easily under cut by competitors.
+1. Diversify the items you sell. Markets are always changing. Don't let hanging circumstances kill your business model.
+1. Buy tracking for all of your packages. It will save you money and stress in the long run when deliveries are contested.
+1. Allocate roughly 30% of your profits for taxes.
+1. Keep a receipt/Bill of sale for items you buy or sell on Craigslist.

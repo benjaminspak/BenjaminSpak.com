@@ -10,9 +10,9 @@
 MY 5 <br>
 1. YouTube Channel Growth -- will enble me to bring awareness to other projects I want support on.
 1. Better Health -- will give me more stamina, resilence & longevity.
-1. Better at User Experience (UX) -- will improve my YouTube videos & understanding of users.
+1. Better at Express & Node -- improving my back-end skills will mark me more marketable and enable me to complete projects on my own.
 1. Better at React.js -- is a popular framework & will enable me to learn React Native.
-1. Create More Online Courses -- will give me a greater control over the products I pitch on YouTube & direct profits.
+1. Reselling -- will improve my sales, sourcing & negotiating skills while learning some extra money.
 
 25 Things <br>
 1. YouTube channel growth.
@@ -22,7 +22,7 @@ MY 5 <br>
 1. ~~~Better at Vue.js~~~
 1. ~~~Better at Angular.js~~~
 1. ~~~Better at Design & illustraction.~~~
-1. Better at User Experience (UX).
+1. ~~~Better at User Experience (UX)..~~~
 1. ~~~Get contributors for Spak Media Repos.~~~
 1. ~~~Spak.co growth.~~~
 1. ~~~Twitter account growth.~~~
@@ -34,8 +34,8 @@ MY 5 <br>
 1. ~~~Make a podcast.~~~
 1. ~~~Travel the world.~~~
 1. ~~~Learn a new language.~~~
-1. Create more online courses.
+1. ~~~Create more online courses.~~~
 1. ~~~Better at computer science.~~~
 1. ~~~DevGains.com growth.~~~
-1. ~~~ListLink.me growth.~~~
+1. Learn Reselling
 1. ~~~Market #301DaysOfCode.~~~
