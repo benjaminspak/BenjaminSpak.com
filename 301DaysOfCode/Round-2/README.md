@@ -16,8 +16,28 @@
 
 
 ```
+# Day 52 | 10.31.2018
 
-# Day 51 | 10.10.2018
+*How did I do well?* <br>
+
++ More interviews.
++ Two videos today.
++ Working through [Gatsby JS Crash Course](https://youtu.be/6YhqQ2ZW1sc)
++ Added ALL THE IZEA & CodeCademy employees I could find on LinkedIn
+
+*How can I improve* <br>
+
++ More code, less social media.
+
+*To Learn List* <br>
+
++ Learn [Netlify CMS](https://www.netlifycms.org/)
++ Continue [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/learn/v4/content)
++ Watch [Redux Crash Course](https://youtu.be/93p3LxR9xfM)
++ Work thru [https://learnredux.com/](learnredux.com)
++ Watch [Learn React - React Crash Course 2018 - React Tutorial with Examples - Mosh](https://youtu.be/Ke90Tje7VS0)
+
+# Day 51 | 10.30.2018
 
 *How did I do well?* <br>
 
@@ -28,7 +48,6 @@
 *How can I improve* <br>
 
 + More code, less social media.
-
 
 *To Learn List* <br>
 
