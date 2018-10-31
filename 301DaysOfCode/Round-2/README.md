@@ -16,6 +16,7 @@
 
 
 ```
+
 # Day 52 | 10.31.2018
 
 *How did I do well?* <br>
@@ -23,6 +24,7 @@
 + More interviews.
 + Two videos today.
 + Working through [Gatsby JS Crash Course](https://youtu.be/6YhqQ2ZW1sc)
+  + Ran into an issue. [Fix](https://github.com/gatsbyjs/gatsby/issues/8488#issuecomment-434859501)
 + Added ALL THE IZEA & CodeCademy employees I could find on LinkedIn
 
 *How can I improve* <br>
