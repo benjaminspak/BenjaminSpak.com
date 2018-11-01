@@ -25,6 +25,9 @@
 + Two videos today.
 + Watched [Gatsby JS Crash Course](https://youtu.be/6YhqQ2ZW1sc)
   + Ran into an issue. [Fix](https://github.com/gatsbyjs/gatsby/issues/8488#issuecomment-434859501)
++ After running though the Gatsby video it is 🔥!
+  + Makes building sites fun and fast again! + The site response speed is crazy fast!! :heart:
+  + Need to learn GraphQL for it to make more sense.
 + Added ALL THE IZEA & CodeCademy employees I could find on LinkedIn
 
 *How can I improve* <br>
