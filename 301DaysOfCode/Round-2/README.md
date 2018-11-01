@@ -28,7 +28,8 @@
 + After running though the Gatsby video it is 🔥!
   + Makes building sites fun and fast again! + The site response speed is crazy fast!! :heart:
   + Need to learn GraphQL for it to make more sense.
-+ Added ALL THE IZEA & CodeCademy employees I could find on LinkedIn
++ Wrote a buggy MVP script in JS to add connections from a Company SERP (Search Engine Results Page) on LinkedIn. [Script Repo](https://github.com/benjaminspak/LinkedInAutoConnect--Scripts)
+  + Added ALL THE IZEA & CodeCademy employees I could find on LinkedIn
 
 *How can I improve* <br>
 
