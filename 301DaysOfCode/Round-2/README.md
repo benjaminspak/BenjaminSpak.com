@@ -23,7 +23,7 @@
 
 + More interviews.
 + Two videos today.
-+ Working through [Gatsby JS Crash Course](https://youtu.be/6YhqQ2ZW1sc)
++ Watched [Gatsby JS Crash Course](https://youtu.be/6YhqQ2ZW1sc)
   + Ran into an issue. [Fix](https://github.com/gatsbyjs/gatsby/issues/8488#issuecomment-434859501)
 + Added ALL THE IZEA & CodeCademy employees I could find on LinkedIn
 
@@ -33,6 +33,7 @@
 
 *To Learn List* <br>
 
++ Learn [GraphQL](https://www.youtube.com/watch?v=PEcJxkylcRM)
 + Learn [Netlify CMS](https://www.netlifycms.org/)
 + Continue [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/learn/v4/content)
 + Watch [Redux Crash Course](https://youtu.be/93p3LxR9xfM)
