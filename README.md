@@ -1,13 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89275663-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-89275663-1');
-</script>
-
 T-shaped front-end web developer & digital marketing veteran. Passion for crafting intuitive user experiences. Self-motivated,collaborative, with a strong sense of JS, UI, UX, CRO & SEO best practices.
 
 Why the simple website?
@@ -57,4 +47,4 @@ Started #301DaysOfCode #UserXP #DevGains. UI/UX Creator. Humanist.
 | [Twitter](https://twitter.com/benjaminspak) | [freeCodeCamp](https://www.freecodecamp.org/benjaminspak) | [Dribble](https://dribbble.com/benjaminspak) |
 | [InstaGram](https://www.instagram.com/spak.co/) | [Dev.to](https://dev.to/benjaminspak) | [Udemy](https://www.udemy.com/user/benspak/) |
 | [YouTube](https://www.youtube.com/channel/UCQUNME_uamXEW1c58iEADWw) | [CodeCademy](https://www.codecademy.com/benjaminspak) | [Medium](https://medium.com/@benjaminspak) |
-| [LinkedIn](https://www.linkedin.com/in/benjaminspak/) | [Moz](https://moz.com/community/users/386142) | |
+| [LinkedIn](https://www.linkedin.com/in/benjaminspak/) | [Moz](https://moz.com/community/users/386142) | [DevPost](https://devpost.com/benjaminspak) |
