@@ -31,7 +31,7 @@ Work with me: | [Resume](https://docs.google.com/document/d/1__fUj81YivpL82BdWjB
 + [Project Idea Log](http://benjaminspak.com/ProjectIdeaLog/)
 + [Quotes](https://benjaminspak.com/Quotes/)
 + [Thoughts/MindSet](https://benjaminspak.com/Thoughts/)
-+ [Mental Health](https://benjaminspak.com/MentalHealth/)
++ [Mental Health](http://benjaminspak.com/MentalHealth/)
 
 ## Writing
 
