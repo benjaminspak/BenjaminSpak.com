@@ -49,3 +49,30 @@ Started #301DaysOfCode #UserXP #DevGains. UI/UX Creator. Humanist.
 | [InstaGram](https://www.instagram.com/spak.co/) | [Dev.to](https://dev.to/benjaminspak) | [Udemy](https://www.udemy.com/user/benspak/) |
 | [YouTube](https://www.youtube.com/channel/UCQUNME_uamXEW1c58iEADWw) | [CodeCademy](https://www.codecademy.com/benjaminspak) | [Medium](https://medium.com/@benjaminspak) |
 | [LinkedIn](https://www.linkedin.com/in/benjaminspak/) | [Moz](https://moz.com/community/users/386142) | [DevPost](https://devpost.com/benjaminspak) |
+
+### Recommendations
+
+FREE Wes Bos Courses 📚<br>
+Flex Box: https://Flexbox.io/friend/SPAK<br>
+CSS Grid: https://CSSGrid.io/friend/SPAK<br>
+Command Line: https://CommandLinePowerUser.com/friend/SPAK
+
+Premium Wes Bos Courses 🤑<br>
+JS ES6: https://ES6.io/friend/SPAK<br>
+Node.js: https://LearnNode.com/friend/SPAK<br>
+React.js: https://ReactForBeginners.com/friend/SPAK
+
+My Premium Courses 🤑<br>
+How To Master SEO: <br> https://www.udemy.com/how-to-master-seo-understand-seo-quickly-and-easily/
+
+Weekly Watched Videos 💡 <br>
+https://goo.gl/X75gTQ
+
+Recommended Chrome Plugins 👍 <br>
+Youtube Playback Speed Control: https://goo.gl/hePTxW <br>
+JSON Formatter: http://goo.gl/ZDLWY0 <br>
+OneTab: https://goo.gl/sHBMpH
+
+Favorite Podcasts 🎤 <br>
+Tim Ferris Show: https://tim.blog/podcast/ <br>
+Joe Rogan Experience: http://podcasts.joerogan.net/
