@@ -53,26 +53,26 @@ Started #301DaysOfCode #UserXP #DevGains. UI/UX Creator. Humanist.
 ### Recommendations
 
 FREE Wes Bos Courses 📚<br>
-Flex Box: https://Flexbox.io/friend/SPAK<br>
-CSS Grid: https://CSSGrid.io/friend/SPAK<br>
-Command Line: https://CommandLinePowerUser.com/friend/SPAK
+Flex Box: [https://Flexbox.io/friend/SPAK](https://Flexbox.io/friend/SPAK)<br>
+CSS Grid: [https://CSSGrid.io/friend/SPAK](https://CSSGrid.io/friend/SPAK)<br>
+Command Line: [https://CommandLinePowerUser.com/friend/SPAK](https://CommandLinePowerUser.com/friend/SPAK)
 
 Premium Wes Bos Courses 🤑<br>
-JS ES6: https://ES6.io/friend/SPAK<br>
-Node.js: https://LearnNode.com/friend/SPAK<br>
-React.js: https://ReactForBeginners.com/friend/SPAK
+JS ES6: [https://ES6.io/friend/SPAK](https://ES6.io/friend/SPAK)<br>
+Node.js: [https://LearnNode.com/friend/SPAK](https://LearnNode.com/friend/SPAK)<br>
+React.js: [https://ReactForBeginners.com/friend/SPAK](https://ReactForBeginners.com/friend/SPAK)
 
 My Premium Courses 🤑<br>
-How To Master SEO: <br> https://www.udemy.com/how-to-master-seo-understand-seo-quickly-and-easily/
+How To Master SEO: <br> [https://www.udemy.com/how-to-master-seo-understand-seo-quickly-and-easily/](https://www.udemy.com/how-to-master-seo-understand-seo-quickly-and-easily/)
 
 Weekly Watched Videos 💡 <br>
-https://goo.gl/X75gTQ
+[https://goo.gl/X75gTQ](https://goo.gl/X75gTQ)
 
 Recommended Chrome Plugins 👍 <br>
-Youtube Playback Speed Control: https://goo.gl/hePTxW <br>
-JSON Formatter: http://goo.gl/ZDLWY0 <br>
-OneTab: https://goo.gl/sHBMpH
+Youtube Playback Speed Control: [https://goo.gl/hePTxW](https://goo.gl/hePTxW) <br>
+JSON Formatter: [http://goo.gl/ZDLWY0](http://goo.gl/ZDLWY0) <br>
+OneTab: [https://goo.gl/sHBMpH](https://goo.gl/sHBMpH)
 
 Favorite Podcasts 🎤 <br>
-Tim Ferris Show: https://tim.blog/podcast/ <br>
-Joe Rogan Experience: http://podcasts.joerogan.net/
+Tim Ferris Show: [https://tim.blog/podcast/](https://tim.blog/podcast/) <br>
+Joe Rogan Experience: [http://podcasts.joerogan.net/](http://podcasts.joerogan.net/)
