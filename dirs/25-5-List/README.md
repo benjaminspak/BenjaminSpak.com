@@ -9,10 +9,15 @@
 
 MY 5 <br>
 1. YouTube Channel Growth -- will enble me to bring awareness to other projects I want support on.
+  1. Interview other people.
+  1. Distill information advice other people have shared.
+  1. Document my journey.
 1. Better Health -- will give me more stamina, resilence & longevity.
-1. Better at Express & Node -- improving my back-end skills will mark me more marketable and enable me to complete projects on my own.
-1. Better at React.js -- is a popular framework & will enable me to learn React Native.
-1. Reselling -- will improve my sales, sourcing & negotiating skills while learning some extra money.
+  1. Walk 1 mile daily.
+1. React.js -- is a popular framework & will enable me to learn React Native.
+  1. Flask back-end framework for personal projects.
+1. A rewarding romantic relationship.
+
 
 25 Things <br>
 1. YouTube channel growth.
@@ -26,7 +31,7 @@ MY 5 <br>
 1. ~~~Get contributors for Spak Media Repos.~~~
 1. ~~~Spak.co growth.~~~
 1. ~~~Twitter account growth.~~~
-1. ~~~A rewarding romantic relationship.~~~
+1. ~~~Reselling -- will improve my sales, sourcing & negotiating skills while earning some extra money.~~~
 1. ~~~Coach Jr/Newbie Programmers.~~~
 1. ~~~Better at Django.~~~
 1. ~~~Better at RoR.~~~
@@ -37,5 +42,5 @@ MY 5 <br>
 1. ~~~Create more online courses.~~~
 1. ~~~Better at computer science.~~~
 1. ~~~DevGains.com growth.~~~
-1. Learn Reselling
+1. ~~~Learn Reselling~~~
 1. ~~~Market #301DaysOfCode.~~~
