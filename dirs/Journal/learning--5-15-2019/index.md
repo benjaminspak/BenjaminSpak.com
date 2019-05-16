@@ -1,4 +1,4 @@
-### Learning--5-15-2018
+### Learning--5-15-2019
 
 Today I'm studying more React. Currently on video 9/29. I think I will work up to 5 videos per day. That should enable me to complete the course within a week. I will likely take the course again, to make sure I didn't miss anything.
 
