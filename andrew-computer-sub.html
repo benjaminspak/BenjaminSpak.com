@@ -9,13 +9,34 @@
 <body>
 
   <h3>Hey dude!</h1>
-    <p>Thanks for working with me to set this up. I put an 8 day 'trial' period so it won't charge you until the 17th. Then you will be charged every two week.</p>
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <p>Thanks for working with me to set this up. You will be charged $15 every month for 16 months ($240) to cover the remaining balance of the comupter.</p>
+  <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="LDRX5DBHQRMPA">
     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
     <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
+    </form> -->
+<div id="paypal-button-container"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=AW95vxYD57ZjGPEsOmr4nb7iXnxgLGHeuSqupvSnW7s5L3oKQQ_2gsWdqepF7w3hjr6RWooe3nsJNC5s&vault=true" data-sdk-integration-source="button-factory"></script>
+<script>
+  paypal.Buttons({
+      style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'subscribe',
+          
+      },
+      createSubscription: function(data, actions) {
+        return actions.subscription.create({
+          'plan_id': 'P-9WC587573X259693FL4IILBQ'
+        });
+      },
+      onApprove: function(data, actions) {
+        alert(data.subscriptionID);
+      }
+  }).render('#paypal-button-container');
+</script>
     
 </body>
 </html>
